@@ -1,1 +1,3 @@
 #alexfransicusm
+
+mempelajari OS membantu kita memahami bagaimana OS bekerja di sistem komputer
