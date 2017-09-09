@@ -1,0 +1,2 @@
+contoh text editor di linux yaitu vim, vi, nano
+awk prosesnya per fields sedangkan sed per lines
