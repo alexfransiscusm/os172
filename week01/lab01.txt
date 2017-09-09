@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 alex.fransiscus StafCS 4096 Sep  9 12:33 .
+drwxr-xr-x  4 alex.fransiscus StafCS 4096 Sep  9 09:14 ..
+drwxr-xr-x  8 alex.fransiscus StafCS 4096 Sep  9 12:32 .git
+-rw-r--r--  1 alex.fransiscus StafCS    7 Sep  9 09:12 README.md
+drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:19 key
+-rw-r--r--  1 alex.fransiscus StafCS    0 Sep  9 12:33 lab01.txt
+drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:18 log
+drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:30 sandbox
+drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:38 week00
+drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:18 week01
+drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:18 week02
+drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:18 week03
+drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:18 week04
+drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:18 week05
+drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:18 week06
+drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:18 week07
+drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:18 week08
+drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:18 week09
+drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:18 week10
+drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:18 xtra
+/home/fasilkom/mahasiswa/a/alex.fransiscus/OS/os172/week01
