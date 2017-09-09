@@ -20,3 +20,4 @@ drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:18 week09
 drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:18 week10
 drwxr-xr-x  2 alex.fransiscus StafCS 4096 Sep  9 09:18 xtra
 /home/fasilkom/mahasiswa/a/alex.fransiscus/OS/os172/week01
+Today is 09 Sep 2017 at 12:55:42
