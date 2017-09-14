@@ -1,1 +1,3 @@
 w02-170914-10-LR-Watching video ETC 050-1 
+w02-170914-10-LR-About POLP (Principle Of Least Privileges)
+https://digitalguardian.com/blog/what-principle-least-privilege-polp-best-practice-information-security-and-compliance
