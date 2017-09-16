@@ -1,3 +1,4 @@
 w02-170914-10-LR-Watching video ETC 050-1 
-w02-170914-10-LR-About POLP (Principle Of Least Privileges)
-https://digitalguardian.com/blog/what-principle-least-privilege-polp-best-practice-information-security-and-compliance
+w02-170914-10-LR-About POLP (Principle Of Least Privileges) https://digitalguardian.com/blog/what-principle-least-privilege-polp best-practice-information-security-and-compliance
+w01-170915-23-PS-About : Encryption and Digital Signature using GnuPG
+w02-170916-08-PS-About : Complete task02
